@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arham Ansari known as Xavieare</h1>
 <h3 align="center">An avid thinker with a balanced mindset to implement defined systems without completely throwing creativity out of the window.</h3>
 
-- 🔭 I’m currently working on **AI/ML**
+- 🔭 I’m currently working on **Software Development & AI/ML**
 
-- 🌱 I’m currently learning **AI, AR, VR, ML**
+- 🌱 I’m currently learning **C# & AI/ML/AR/VR**
 
-- 💬 Ask me about **Web development & Metaverse**
+- 💬 Ask me about **Development & Metaverse**
 
 - 📫 How to reach me **xavieare@null.net**
 
