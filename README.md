@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Software Development & AI/ML**
 
-- 🌱 I’m currently learning **C# & AI/ML/AR/VR**
-
-- 💬 Ask me about **Development & Metaverse**
+- 🌱 I’m currently learning **Ai/ML**
 
 - 📫 How to reach me **xavieare@null.net**
 
