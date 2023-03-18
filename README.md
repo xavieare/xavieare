@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Development & AI/ML**
 
-- 🌱 I’m currently learning **Ai/ML**
+- 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **xavieare@null.net**
 
